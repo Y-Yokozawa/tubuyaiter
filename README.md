@@ -20,6 +20,7 @@ $ python3.8 -m venv env
 $ source env/bin/activate
 ```
 
+requirements.txtをインストールする
 ```
 $ pip install -r requirements.txt
 ```
@@ -28,3 +29,5 @@ $ pip install -r requirements.txt
 ```
 $ python manage.py migrate
 ```
+
+test
